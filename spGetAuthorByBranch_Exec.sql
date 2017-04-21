@@ -1,0 +1,1 @@
+EXEC dbo.spGetAuthorByBranch @AuthorName = 'Michael Bakunin', @BranchName = 'Sharpstown'
